@@ -1,4 +1,4 @@
-<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+<!-- SPDX-License-Identifier: CC-BY-4.0 --> 2
 <!-- Copyright Contributors to the Egeria project. -->
 
 ![Egeria Logo](assets/img/ODPi_Egeria_Logo_color.png)
